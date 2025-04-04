@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/yuser-test-app.io/static/css/main.f25923f9.css",
+    "main.js": "/yuser-test-app.io/static/js/main.b25f4421.js",
+    "index.html": "/yuser-test-app.io/index.html",
+    "main.f25923f9.css.map": "/yuser-test-app.io/static/css/main.f25923f9.css.map",
+    "main.b25f4421.js.map": "/yuser-test-app.io/static/js/main.b25f4421.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f25923f9.css",
+    "static/js/main.b25f4421.js"
+  ]
+}
