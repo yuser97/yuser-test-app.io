@@ -201,7 +201,7 @@ const ProductsList: React.FC = () => {
           </button>
         </div>
 
-        {/* Кнопка сброса, сделал для удобства */}
+        {/* Кнопка сброса, сделал для удобства, на гитхабе не должно видно, только если запустить npm start*/}
         {process.env.NODE_ENV === 'development' && (
           <div>
             <button
